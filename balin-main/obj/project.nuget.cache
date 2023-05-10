@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QB5uSChh/6pg3l4Mr8YgajlzpaPyncrrmHcicFMmH+eM5+78NWkscDAMfPEhIRU5yoFg/cUini0gAzSt3m9opg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cherepanov.41011\\Desktop\\balin-main\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cherepanov.41011\\.nuget\\packages\\baseline\\4.1.0\\baseline.4.1.0.nupkg.sha512",
+    "C:\\Users\\cherepanov.41011\\.nuget\\packages\\dryioc.dll\\5.3.1\\dryioc.dll.5.3.1.nupkg.sha512",
+    "C:\\Users\\cherepanov.41011\\.nuget\\packages\\imtools\\4.0.0\\imtools.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
